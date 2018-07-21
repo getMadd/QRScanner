@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1048899374931",
+    "firebase_url": "https://smokerolla-760d2.firebaseio.com",
+    "project_id": "smokerolla-760d2",
+    "storage_bucket": "smokerolla-760d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048899374931:android:8503e230da0d11ba",
+        "android_client_info": {
+          "package_name": "io.madd.smokerolla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048899374931-nhdrqdcc38dtv3b0uc7m97h1c2ojj8k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.madd.smokerolla",
+            "certificate_hash": "97996cbad87c24e4ac4298b098c1cbde52cfe4a5"
+          }
+        },
+        {
+          "client_id": "1048899374931-diccojrdkh1gmguujhfnikod262rbavt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1048899374931-diccojrdkh1gmguujhfnikod262rbavt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITrxS0rX-tHZbDNFKJ-lPzqpwel6fbvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048899374931-diccojrdkh1gmguujhfnikod262rbavt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
